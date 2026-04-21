@@ -12,4 +12,4 @@ Requirements for the software versions are in the requirements.txt
 GTA5 --> Cityscapes files are under the gta-to-cs folder.  
 SYNTHIA --> Cityscapes files are under the syn-to-cs folder.   
 
-You can find the split codes in syn_split.py and gta_split.py.
+The dataset splitting scripts are located in syn_split.py and gta_split.py.
